@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![giphy](https://user-images.githubusercontent.com/49656211/94378929-771f4600-0103-11eb-83cc-02edf08bb725.gif)
+
 <!--
 **SWE3T/SWE3T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
