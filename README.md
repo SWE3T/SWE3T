@@ -7,7 +7,7 @@ Designer Industrial nas horas vagas.
 <li>- 🌱 Atualmente aprendendo Java, C# e Solid Works</li>
 <li>- 📫 Contato - guilherme.devon@hotmail.com</li>
 <p>
-<img align="right" src="![giphy](https://user-images.githubusercontent.com/49656211/94378929-771f4600-0103-11eb-83cc-02edf08bb725.gif)" />
+![giphy](https://user-images.githubusercontent.com/49656211/94378929-771f4600-0103-11eb-83cc-02edf08bb725.gif)
 </p>
 
 
