@@ -13,10 +13,10 @@
 <h2> Algumas informações rápidas</h2>
 <ul>
     <li> Pretendo seguir o ramo de UX Design.</li>
-    <li> Passo o tempo estudando e comendo.</li>
+    <li> Passo meu tempo estudando.</li>
     <li> Me interesso muito na área de computação gráfica e geração procedural.</li>
-    <li> Acho Git um saco, mas 'HEY, as long as it works' eu uso.</li>
-    <li> AK X no CS, "segue o pai que o inimigo cai!" </li>
+    <li> Tentando me familiarizar com GIT.</li>
+    
 </ul>
 
 
