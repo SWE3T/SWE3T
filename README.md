@@ -6,7 +6,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/49656211/94379267-9028f680-0105-11eb-8155-98eaeae8886e.gif" width="480" />
 
-<li>-  Atualmente aprendendo Java, C# e Solid Works</li>
+<li>-  Atualmente aprendendo Java, CSS, HTML</li>
 <li>-  Contato - guilherme.devon@hotmail.com</li>
 
 
