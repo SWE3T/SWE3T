@@ -5,7 +5,7 @@
 
 Atualmente aprendendo JavaScript, CSS e Laravel <br><br>
 Caso queira entrar em contato,
-<a href="guilherme.devon@hotmail.com"> me manda um e-mail</a> :)
+<a href="mailto:guilherme.devon@hotmail.com"> me manda um e-mail</a> :)
 <h2> Algumas informações rápidas</h2>
 <ul>
     <li> Pretendo seguir o ramo de UX Design.</li>
