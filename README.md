@@ -3,10 +3,9 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/49656211/94379267-9028f680-0105-11eb-8155-98eaeae8886e.gif" width="480" />
 
-<li>Atualmente aprendendo JavaScript, CSS e Laravel</li>
+Atualmente aprendendo JavaScript, CSS e Laravel <br><br>
 Caso queira entrar em contato,
-[pode me mandar um e-mail](mailto:guilherme.devon@hotmail.com)
-
+<a href="guilherme.devon@hotmail.com"> me manda um e-mail</a> :)
 <h2> Algumas informações rápidas</h2>
 <ul>
     <li> Pretendo seguir o ramo de UX Design.</li>
