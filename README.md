@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Homemade+Apple&color=%23F71A5F&size=23&duration=7000&center=true&width=1000&height=50&lines=today+the+universe+is+smiling+upon+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Homemade+Apple&color=%23F71A5F&size=33&duration=7000&center=true&width=1000&height=100&lines=today+the+universe+is+smiling+upon+me)](https://git.io/typing-svg)
 
 
 ### Oi!  |  Hello! :smiley: <br>
