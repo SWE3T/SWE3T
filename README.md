@@ -1,14 +1,21 @@
-### Bem vindo ao meu perfil! 
-<p style="text-align: center;">Sou acadêmico de Ciência da Computação na Universidade Federal da Fronteira Sul. Atualmente estou no 6° semestre</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Homemade+Apple&color=%23F71A5F&size=23&duration=7000&center=true&width=1000&height=50&lines=today+the+universe+is+smiling+upon+me)](https://git.io/typing-svg)
 
-<img align="right" src="https://user-images.githubusercontent.com/49656211/94379267-9028f680-0105-11eb-8155-98eaeae8886e.gif" width="480" />
 
-Atualmente aprendendo JavaScript, CSS e Desenvolvimento Mobile <br><br>
-Caso queira entrar em contato,
-<a href="mailto:guilherme.devon@hotmail.com"> me manda um e-mail</a> :)
+### Oi!  |  Hello! :smiley: <br>
+Meu nome é  |  My name is **Guilherme**,
+  
+Eu sou acadêmico de Ciência da Computação pela  |  I'm a CompSci Undergrad at the **Universidade Federal da Fronteira Sul.** :computer: <br> 
+  
+E atualmente colaborando no projeto | and currently working on **Practice**. :smiling_face_with_three_hearts:  <hr>
 
-<ul></br>
-    <li> Pretendo seguir o ramo de UX Design.</li>
-    <li> Adoro filmes e séries, meus gostos musicais são variados.</li>
-    <li> Me interesso muito na área de computação gráfica e geração procedural.</li>
-</ul>
+Hoje em dia estou focado em | Nowadays I'm working the most with **JavaScript, CSS e Mobile (Flutter/Cordova)** :cupid: <br>
+
+Estou aprendendo (e me encantando) frameworks como | I'm learning (and falling in love with) frameworks such as **Laravel, React e Node.** <hr>
+
+Adoro séries de suspense e músicas depressivas. | I love suspense series and depressing songs.
+
+Além do **Português**, sou fluente em **Inglês** e compreendo **Italiano** | Besides **Portuguese**, I am fluent on **English** and I can understand **Italian**.
+
+Sei tocar violão | I know how to play guitar <br>
+
+Sinta-se livre para entrar em <a href="mailto:guilherme.devon@hotmail.com"> contato</a> | Feel free to get in <a href="mailto:guilherme.devon@hotmail.com"> touch with me</a>
