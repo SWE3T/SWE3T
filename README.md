@@ -8,9 +8,9 @@ Eu sou acadêmico de Ciência da Computação pela  |  I'm a CompSci Undergrad a
   
 E atualmente colaborando no projeto | and currently working on **Practice**. :smiling_face_with_three_hearts:  <hr>
 
-Hoje em dia estou focado em | Nowadays I'm working the most with **JavaScript, CSS e Mobile (Flutter/Cordova)** :cupid: <br>
+Hoje em dia estou focado em | Nowadays I'm working the most with **JavaScript, CSS & Mobile (Flutter/Cordova)** :cupid: <br>
 
-Estou aprendendo (e me encantando) frameworks como | I'm learning (and falling in love with) frameworks such as **Laravel, React e Node.** <hr>
+Estou aprendendo (e me encantando) frameworks como | I'm learning (and falling in love with) frameworks such as **Laravel, React & Node.** <hr>
 
 Adoro séries de suspense e músicas depressivas. | I love suspense series and depressing songs.
 
