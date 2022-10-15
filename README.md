@@ -1,19 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Homemade+Apple&color=%23F71A5F&size=33&duration=7000&center=true&width=1000&height=100&lines=today+the+universe+is+smiling+upon+me)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CF9110&vCenter=true&multiline=true&width=500&height=120&lines=Every+day+I+make+it%2C;I'll+make+it+the+best+I+can.)](https://git.io/typing-svg)
 
-### Oi!  |  Hello! :smiley: <br>
-Meu nome é  |  My name is **Guilherme**,
+### Hello! <br>
+My name is **Guilherme**,
   
-Eu sou acadêmico de Ciência da Computação pela  |  I'm a CompSci Undergrad at the **Universidade Federal da Fronteira Sul.** :computer: <br> 
+I'm a Computer Science Undergraduate at the **Universidade Federal da Fronteira Sul.** :computer: <br> 
 
-Hoje em dia estou focado em | Nowadays I'm working the most with **JavaScript, CSS & Mobile (Flutter/Cordova)** :cupid: <br>
+I'm working the most with **JavaScript, CSS & PHP** :cupid: <br>
 
-Estou aprendendo (e me encantando) frameworks como | I'm learning (and falling in love with) frameworks such as **Laravel, React & Vue.** <hr>
+And learning (falling in love with) frameworks such as **Laravel, React & Vue.** :star: <hr>
 
-Adoro séries de suspense e músicas depressivas. | I love suspense series and depressing songs.
+I love suspense series and depressing songs. 
 
-Além do **Português**, sou fluente em **Inglês** e compreendo **Italiano** | Besides **Portuguese**, I am fluent on **English** and I can understand **Italian**.
+Besides **Portuguese** (my native language), I am fluent on **English** and I can understand **Italian**.
 
-Sei tocar violão | I know how to play guitar <br>
-
-Sinta-se livre para entrar em <a href="mailto:guilherme.devon@hotmail.com"> contato</a> | Feel free to get in <a href="mailto:guilherme.devon@hotmail.com"> touch with me</a>
+Feel free to get in <a href="mailto:guilherme.devon@hotmail.com"> touch with me</a>
