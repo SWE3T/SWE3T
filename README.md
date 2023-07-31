@@ -6,9 +6,9 @@ My name is **Guilherme**,
   
 I'm a Computer Science Undergraduate at the **Universidade Federal da Fronteira Sul.** :computer: <br> 
 
-I'm working the most with **JavaScript, CSS & PHP** :cupid: <br>
+I'm working the most with **JavaScript, CSS & React** :cupid: <br>
 
-And learning (falling in love with) frameworks such as **Laravel, React & Vue.** :star: <hr>
+And learning (falling in love with) frameworks such as **Vue, Next & Nuxt.** :star: <hr>
 
 I love suspense series and depressing songs. 
 
