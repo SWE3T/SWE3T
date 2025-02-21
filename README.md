@@ -4,13 +4,13 @@
 ### Hello! <br>
 My name is **Guilherme**,
   
-I'm a Computer Science Undergraduate at the **Universidade Federal da Fronteira Sul.** :computer: <br> 
+I'm a Computer Science graduate at the **Universidade Federal da Fronteira Sul.** :computer: <br> 
 
-I'm working the most with **JavaScript, CSS & React** :cupid: <br>
+I'm working the most with **TypeScript, CSS & React** :cupid: <br>
 
-And learning (falling in love with) frameworks such as **Vue, Next & Nuxt.** :star: <hr>
+But I also know frameworks such as **Next, Svelte & Astro.** :star: <hr>
 
-I love suspense series and depressing songs. 
+I love suspense series and depressing songs.
 
 Besides **Portuguese** (my native language), I am fluent on **English** and I can understand **Italian**.
 
